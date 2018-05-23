@@ -6,3 +6,5 @@ https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/
 http://www.datacarpentry.org/socialsci-workshop/
 
 https://rstudio.github.io/learnr/
+
+https://github.com/ropenscilabs/rOpenSciEd
