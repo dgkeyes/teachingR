@@ -8,3 +8,5 @@ http://www.datacarpentry.org/socialsci-workshop/
 https://rstudio.github.io/learnr/
 
 https://github.com/ropenscilabs/rOpenSciEd
+
+http://rbasics.netlify.com/index.html
