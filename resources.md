@@ -5,4 +5,4 @@ https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/
 
 http://www.datacarpentry.org/socialsci-workshop/
 
-https://blog.rstudio.com/2017/07/11/introducing-learnr/
+https://rstudio.github.io/learnr/
