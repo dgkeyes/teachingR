@@ -1,3 +1,5 @@
+# General
+
 Slides and materials for the "Start with Data Science as an Introduction to Statistical Thinking" invited session at SDSS 2018
 https://github.com/mine-cetinkaya-rundel/start-with-ds
 
@@ -10,3 +12,9 @@ https://rstudio.github.io/learnr/
 https://github.com/ropenscilabs/rOpenSciEd
 
 http://rbasics.netlify.com/index.html
+
+# ggplot
+
+https://xvrdm.github.io/ggplotext_meetup/
+http://socviz.co/
+http://serialmentor.com/dataviz/
