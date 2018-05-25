@@ -1,3 +1,8 @@
+# Datasets
+
+https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
+
+
 # General
 
 Slides and materials for the "Start with Data Science as an Introduction to Statistical Thinking" invited session at SDSS 2018
