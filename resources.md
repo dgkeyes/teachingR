@@ -1,7 +1,7 @@
 # Datasets
 
-https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
-https://github.com/opensdp/OpenSDPsynthR
+- https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
+- https://github.com/opensdp/OpenSDPsynthR
 https://github.com/jjchern/lalonde
 http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp
 https://github.com/awesomedata/awesome-public-datasets#socialsciences
