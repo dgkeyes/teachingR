@@ -3,7 +3,7 @@ Datasets to use for teaching R. Geared toward those in social sciences and evalu
 # Datasets
 
 - [Lalonde](https://github.com/jjchern/lalonde): a dataset from a 1970s study on a worker training program
-- [World Values Survey](http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp)
+- [World Values Survey](http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp): "The World Values Survey (WVS) is a global research project that explores people’s values and beliefs, how they change over time and what social and political impact they have. It is carried out by a worldwide network of social scientists who, since 1981, have conducted representative national surveys in almost 100 countries." (Wikipedia)
 - [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx): "The California Health Interview Survey (CHIS) is the nation's largest state health survey and a critical source of data on Californians as well as on the state's various racial and ethnic groups."
 - [General Social Survey](https://gssdataexplorer.norc.org/)
 
