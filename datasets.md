@@ -11,9 +11,9 @@ Datasets to use for teaching R. Geared toward those in social sciences and evalu
 # Fake data
 R packages to make fake datasets.
 
-- https://cran.r-project.org/web/packages/synthpop/synthpop.pdf
-- https://github.com/trinker/wakefield
-- https://github.com/opensdp/OpenSDPsynthR. See also https://drive.google.com/file/d/0BzA6GcmEs1BZTzFuY1ZBV3c5aUNfSkVVLXJTMmk4NjlwaV9n/view?usp=sharing
+- [synthpop R package](https://cran.r-project.org/web/packages/synthpop/synthpop.pdf): "A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis"
+- [Wakefield R package](https://github.com/trinker/wakefield): Package to make fake datasets
+- [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR): "A project to generate realistic synthetic unit-level longitudinal education data to empower collaboration in education analytics." A description of the data generated is [here](https://drive.google.com/file/d/0BzA6GcmEs1BZTzFuY1ZBV3c5aUNfSkVVLXJTMmk4NjlwaV9n/view?usp=sharing).
 
 # Collections of datasets
 - [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html): "Rdatasets is a collection of 1161 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. The goal is to make these data more broadly accessible for teaching and statistical software development."
