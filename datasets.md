@@ -14,6 +14,8 @@ R packages to make fake datasets.
 - [synthpop R package](https://cran.r-project.org/web/packages/synthpop/synthpop.pdf): "A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis"
 - [Wakefield R package](https://github.com/trinker/wakefield): Package to make fake datasets
 - [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR): "A project to generate realistic synthetic unit-level longitudinal education data to empower collaboration in education analytics." A description of the data generated is [here](https://drive.google.com/file/d/0BzA6GcmEs1BZTzFuY1ZBV3c5aUNfSkVVLXJTMmk4NjlwaV9n/view?usp=sharing).
+- [Faketucky](https://github.com/opensdp/faketucky): "The Faketucky synthetic college-going analysis file contains high school and college outcome data for two graduating cohorts of approximately 40,000 students. There are no real children in the dataset, but it mirrors the relationships between variables present in real data."
+
 
 # Collections of datasets
 - [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/datasets.html): "Rdatasets is a collection of 1161 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. The goal is to make these data more broadly accessible for teaching and statistical software development."
