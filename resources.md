@@ -30,6 +30,8 @@ https://github.com/ropenscilabs/rOpenSciEd
 
 http://rbasics.netlify.com/index.html
 
+https://knightcenter.utexas.edu/blog/00-19845-learn-how-find-great-stories-data-register-now-free-online-course-intro-r-journalists
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
