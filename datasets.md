@@ -1,7 +1,7 @@
 # Datasets to use for teaching R
 
 - https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
-- https://github.com/opensdp/OpenSDPsynthR
+- https://github.com/opensdp/OpenSDPsynthR. See also https://drive.google.com/file/d/0BzA6GcmEs1BZTzFuY1ZBV3c5aUNfSkVVLXJTMmk4NjlwaV9n/view?usp=sharing
 - https://github.com/jjchern/lalonde
 - http://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp
 - https://github.com/awesomedata/awesome-public-datasets#socialsciences
