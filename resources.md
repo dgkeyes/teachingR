@@ -22,8 +22,23 @@ https://knightcenter.utexas.edu/blog/00-19845-learn-how-find-great-stories-data-
 
 https://github.com/mcfrank/tidyverse-tutorial
 
+https://rstudio-education.github.io/datascience-box/
+
+https://owi.usgs.gov/R/training-curriculum/intro-curriculum/Get/
+
+[R syntax options](http://www.science.smith.edu/~amcnamara/Syntax-cheatsheet.pdf)
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
 http://socviz.co/
 http://serialmentor.com/dataviz/
+
+# Tidyverse
+["Wrangling data in the Tidyverse" - a tutorial given at useR! 2018](https://github.com/drsimonj/tidyverse_tutorial-useR2018)
+
+# For those coming from Excel
+[How To Use R With Excel: A Comprehensive Guide to Transitioning from Excel to R]:(http://rpubs.com/acolumbus/how-to-use-r-with-excel)
+
+# Meta (i.e. info on effective teaching)
+[Teaching Tech Together](http://teachtogether.tech/)
