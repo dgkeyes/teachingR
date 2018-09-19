@@ -32,6 +32,8 @@ https://github.com/rstudio-education/datascience-box
 
 https://learn.r-journalism.com/en/
 
+https://ohsu-conj620.netlify.com/
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
