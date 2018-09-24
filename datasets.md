@@ -24,3 +24,4 @@ R packages to make fake datasets.
 - [Awesome Public Datasets GitHub repo](https://github.com/awesomedata/awesome-public-datasets#socialsciences)
 - [Storytelling with Data list of datasets](https://docs.google.com/document/d/1Ads4XsCjXmDrdGRgfmm_OgRdpFcl6Qhs6SOllNGyq7Y/edit?ts=5a0df365)
 - [FiveThirtyEight](https://github.com/rudeboybert/fivethirtyeight): An R package that provides access to the code and data sets published by FiveThirtyEight 
+- [CDC data hub](https://www.cdc.gov/ophss/csels/dhis/overview.html): Collection of health-related datasets
