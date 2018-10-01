@@ -34,6 +34,8 @@ https://learn.r-journalism.com/en/
 
 https://ohsu-conj620.netlify.com/
 
+https://datavizf18.classes.andrewheiss.com/
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
