@@ -36,6 +36,8 @@ https://ohsu-conj620.netlify.com/
 
 https://datavizf18.classes.andrewheiss.com/
 
+https://leanpub.com/universities/set/jhu/chromebook-data-science
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
