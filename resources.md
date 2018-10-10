@@ -38,6 +38,8 @@ https://datavizf18.classes.andrewheiss.com/
 
 https://leanpub.com/universities/set/jhu/chromebook-data-science
 
+http://stat545.com/topics.html
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
