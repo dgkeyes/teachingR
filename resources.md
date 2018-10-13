@@ -40,6 +40,8 @@ https://leanpub.com/universities/set/jhu/chromebook-data-science
 
 http://stat545.com/topics.html
 
+https://www.williamrchase.com/slides/intro_r_anthropology_2018#28
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
