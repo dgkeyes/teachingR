@@ -42,6 +42,10 @@ http://stat545.com/topics.html
 
 https://www.williamrchase.com/slides/intro_r_anthropology_2018#28
 
+[RStudio Cloud primers](https://rstudio.cloud/learn/primers)
+
+[R for Psychological Science](http://compcogscisydney.org/psyr/index.html)
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
