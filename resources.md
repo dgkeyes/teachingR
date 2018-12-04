@@ -16,6 +16,8 @@ https://rstudio.github.io/learnr/
 
 https://github.com/ropenscilabs/rOpenSciEd
 
+https://ropensci.org/blog/2018/07/25/educollab-resources/
+
 http://rbasics.netlify.com/index.html
 
 https://knightcenter.utexas.edu/blog/00-19845-learn-how-find-great-stories-data-register-now-free-online-course-intro-r-journalists
