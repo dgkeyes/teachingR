@@ -49,6 +49,8 @@ https://www.williamrchase.com/slides/intro_r_anthropology_2018#28
 
 [R for Psychological Science](http://compcogscisydney.org/psyr/index.html)
 
+[R for marketing students](https://bookdown.org/content/1340/)
+
 # ggplot
 
 https://xvrdm.github.io/ggplotext_meetup/
