@@ -7,6 +7,7 @@ Datasets to use for teaching R. Geared toward those in social sciences and evalu
 - [California Health Interview Survey](http://healthpolicy.ucla.edu/chis/Pages/default.aspx): "The California Health Interview Survey (CHIS) is the nation's largest state health survey and a critical source of data on Californians as well as on the state's various racial and ethnic groups."
 - [General Social Survey](https://gssdataexplorer.norc.org/)
 - [Demographic and Health Survey (DHS)](https://ropensci.github.io/rdhs/index.html)
+- [Monitoring the Future](http://www.monitoringthefuture.org/): "Monitoring the Future is an ongoing study of the behaviors, attitudes, and values of American secondary school students, college students, and young adults. Each year, a total of approximately 50,000 8th, 10th and 12th grade students are surveyed (12th graders since 1975, and 8th and 10th graders since 1991)."
 
 
 # Fake data
