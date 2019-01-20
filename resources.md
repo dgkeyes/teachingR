@@ -25,7 +25,7 @@ https://knightcenter.utexas.edu/blog/00-19845-learn-how-find-great-stories-data-
 
 https://github.com/mcfrank/tidyverse-tutorial
 
-https://rstudio-education.github.io/datascience-box/
+https://datasciencebox.org/content/
 
 https://owi.usgs.gov/R/training-curriculum/intro-curriculum/Get/
 
@@ -50,6 +50,8 @@ https://www.williamrchase.com/slides/intro_r_anthropology_2018#28
 [R for Psychological Science](http://compcogscisydney.org/psyr/index.html)
 
 [R for marketing students](https://bookdown.org/content/1340/)
+
+https://github.com/swirldev/swirl_courses#swirl-courses
 
 # ggplot
 
