@@ -9,6 +9,8 @@ Datasets to use for teaching R. Geared toward those in social sciences and evalu
 - [Demographic and Health Survey (DHS)](https://ropensci.github.io/rdhs/index.html)
 - [Monitoring the Future](http://www.monitoringthefuture.org/): "Monitoring the Future is an ongoing study of the behaviors, attitudes, and values of American secondary school students, college students, and young adults. Each year, a total of approximately 50,000 8th, 10th and 12th grade students are surveyed (12th graders since 1975, and 8th and 10th graders since 1991)."
 - [Incarceration Trends Dataset and Documentation](https://github.com/vera-institute/incarceration_trends)
+- [FiveThirtyEight GitHub](https://github.com/fivethirtyeight/data)
+- [BuzzFeed News GitHub](https://github.com/BuzzFeedNews)
 
 
 # Fake data
